@@ -1,2 +1,2 @@
 # mywebsite
-Make a private my website
+Make a persional my website
